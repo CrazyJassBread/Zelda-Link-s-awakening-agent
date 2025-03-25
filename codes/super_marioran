@@ -1,0 +1,112 @@
+>>> pyboy = PyBoy(supermarioland_rom)
+>>> pyboy.set_emulation_speed(0)  // pyboy.set_emulation_speed(0) 设置模拟的速度为 0，即暂停游戏的速度，通常这是在需要静态游戏画面或进行帧捕捉时使用。
+>>> assert pyboy.cartridge_title == "SUPER MARIOLAN"  // pyboy.cartridge_title 会返回游戏 ROM 的标题。这里它被用来验证加载的游戏是否是《Super Mario Land》，并确保标题与预期匹配。
+>>>
+
+
+>>> mario = pyboy.game_wrapper  // pyboy.game_wrapper 返回一个封装游戏功能的对象，通常它提供了对游戏状态、分数、生命等信息的访问。
+// 看一下pyboy.game_wrapper里面有什么
+
+
+>>> mario.game_area_mapping(mario.mapping_compressed, 0)
+>>> mario.start_game()
+>>>
+>>> assert mario.score == 0
+>>> assert mario.lives_left == 2
+>>> assert mario.time_left == 400
+>>> assert mario.world == (1, 1)
+>>> last_time = mario.time_left
+>>>
+>>> pyboy.tick() # To render screen after `.start_game`
+True
+>>> pyboy.screen.image.save("SuperMarioLand1.png")
+>>> print(mario)
+Super Mario Land: World 1-1
+Coins: 0
+lives_left: 2
+Score: 0
+Time left: 400
+Level progress: 251
+Sprites on screen:
+Sprite [3]: Position: (35, 112), Shape: (8, 8), Tiles: (Tile: 0), On screen: True
+Sprite [4]: Position: (43, 112), Shape: (8, 8), Tiles: (Tile: 1), On screen: True
+Sprite [5]: Position: (35, 120), Shape: (8, 8), Tiles: (Tile: 16), On screen: True
+Sprite [6]: Position: (43, 120), Shape: (8, 8), Tiles: (Tile: 17), On screen: True
+Tiles on screen:
+       0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19
+____________________________________________________________________________________
+0  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+1  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+2  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+3  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+4  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+5  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+6  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+7  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+8  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+9  |   0   0   0   0   0  13   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+10 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+11 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+12 |   0  14  14   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+13 |   0  14  14   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+14 |  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10
+15 |  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10
+>>>
+>>> from pyboy.utils import WindowEvent
+>>> pyboy.send_input(WindowEvent.SCREEN_RECORDING_TOGGLE)
+>>> pyboy.button_press('right')
+>>> for n in range(1000):
+...     assert mario.time_left <= mario.time_left
+...     last_time = mario.time_left
+...
+...     pyboy.tick(1, True)
+...     if n == 120:
+...         # Standing right next to the Goomba
+...         pyboy.screen.image.save("SuperMarioLand2.png")
+...         print(mario)
+...     if mario.lives_left == 1:
+...         break
+... else:
+...     print("Mario didn't die?")
+...     assert False
+True...
+Super Mario Land: World 1-1
+Coins: 0
+lives_left: 2
+Score: 0
+Time left: 397
+Level progress: 368
+Sprites on screen:
+Sprite [3]: Position: (66, 112), Shape: (8, 8), Tiles: (Tile: 4), On screen: True
+Sprite [4]: Position: (74, 112), Shape: (8, 8), Tiles: (Tile: 5), On screen: True
+Sprite [5]: Position: (66, 120), Shape: (8, 8), Tiles: (Tile: 20), On screen: True
+Sprite [6]: Position: (74, 120), Shape: (8, 8), Tiles: (Tile: 21), On screen: True
+Sprite [20]: Position: (81, 120), Shape: (8, 8), Tiles: (Tile: 144), On screen: True
+Tiles on screen:
+       0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19
+____________________________________________________________________________________
+0  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+1  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+2  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+3  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+4  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+5  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+6  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+7  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+8  |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+9  |   0   0   0   0   0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   0
+10 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+11 |   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+12 |   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0  14  14   0
+13 |   0   0   0   0   0   0   0   0   1   1  15   0   0   0   0   0   0  14  14   0
+14 |  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10
+15 |  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10  10
+True...
+>>> pyboy.send_input(WindowEvent.SCREEN_RECORDING_TOGGLE)
+>>> pyboy.tick(1, False)
+True
+>>>
+>>> mario.reset_game()
+>>> assert mario.lives_left == 2
+>>>
+>>> pyboy.stop()
