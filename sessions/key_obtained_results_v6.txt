@@ -1,0 +1,32 @@
+
+==================================================
+Key obtained at: 2025-03-31 21:25:50
+Episode time: 69.76 seconds
+Total training time: 638.65 seconds
+Steps taken: 0
+Reset count: 12
+==================================================
+
+==================================================
+Key obtained at: 2025-03-31 21:38:52
+Episode time: 156.58 seconds
+Total training time: 1420.97 seconds
+Steps taken: 0
+Reset count: 35
+==================================================
+
+==================================================
+Key obtained at: 2025-03-31 21:42:17
+Episode time: 54.87 seconds
+Total training time: 1625.85 seconds
+Steps taken: 0
+Reset count: 41
+==================================================
+
+==================================================
+Key obtained at: 2025-03-31 21:42:47
+Episode time: 29.44 seconds
+Total training time: 1656.18 seconds
+Steps taken: 0
+Reset count: 43
+==================================================

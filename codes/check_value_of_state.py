@@ -1,6 +1,7 @@
 from pyboy import PyBoy
 from pyboy.utils import WindowEvent
 import numpy as np
+import time  # 添加time模块
 
 # 定义游戏 ROM 文件路径
 rom_path = r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb"
@@ -24,11 +25,18 @@ except FileNotFoundError:
 
 # 主循环，用于人工玩游戏并监控内存变化
 while  pyboy.tick():
-    # # 查看 DBAE 地址的数值
-    DBD0_value = pyboy.memory[0xDBD0]
-    # DB01_value = pyboy.memory[0xDB01]
-    print(f"Value at address DB00_value: {hex(DBD0_value)},")
-          # f" Value at address DB01_value: {hex(DB01_value)}")
+    # 0xC00D纵坐标
+    # 0xC00C横坐标
+    C00D_value = pyboy.memory[0xC00D]
+    C00C_value = pyboy.memory[0xC00C]
+    # D405_value = pyboy.memory[0xD405]
+
+    print(f"Value at address C00C_value: {hex(C00C_value)},\n")
+    time.sleep(1/60)  # 可以调整这个值来改变打印速度
+
+
+    
+
 
 # 关闭模拟器
 pyboy.stop()

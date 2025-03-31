@@ -1,16 +1,29 @@
-# 这是一个示例 Python 脚本。
+from pyboy import PyBoy
+from pyboy.utils import WindowEvent
+import numpy as np
 
-# 按 Shift+F10 执行或将其替换为您的代码。
-# 按 双击 Shift 在所有地方搜索类、文件、工具窗口、操作和设置。
+# 定义游戏 ROM 文件路径
+rom_path = r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb"
+# 定义初始游戏状态文件（.state 文件）的路径
+init_state_path = r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb.state"
 
+# 初始化 PyBoy 模拟器
+pyboy = PyBoy(rom_path, window="SDL2")
 
-def print_hi(name):
-    # 在下面的代码行中使用断点来调试脚本。
-    print(f'Hi, {name}')  # 按 Ctrl+F8 切换断点。
+# 尝试加载初始游戏状态
+try:
+    with open(init_state_path, "rb") as f:
+        # 加载保存的游戏状态
+        pyboy.load_state(f)
+        print(f"Successfully loaded game state from {init_state_path}")
+except FileNotFoundError:
+    print(f"Warning: Game state file {init_state_path} not found, starting a new game.")
 
-
-# 按装订区域中的绿色按钮以运行脚本。
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+while pyboy.tick():
+    # 获取精灵坐标
+    sprite = pyboy.get_sprite(2)  # 获取第一个精灵（通常是主角）
+    x = sprite.x
+    y = sprite.y
+    print(f"Sprite position: x={x}, y={y}")  # 打印精灵位置
+    
+pyboy.stop()
