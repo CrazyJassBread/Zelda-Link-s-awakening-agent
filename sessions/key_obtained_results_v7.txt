@@ -278,3 +278,179 @@ Total training time: 184.72 seconds
 Steps taken: 0
 Reset count: 116
 ==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:48:12
+Episode time: 33.82 seconds
+Total training time: 36.61 seconds
+Steps taken: 0
+Reset count: 3
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:48:21
+Episode time: 8.73 seconds
+Total training time: 45.34 seconds
+Steps taken: 0
+Reset count: 4
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:48:41
+Episode time: 5.98 seconds
+Total training time: 65.49 seconds
+Steps taken: 0
+Reset count: 19
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:48:48
+Episode time: 4.40 seconds
+Total training time: 72.98 seconds
+Steps taken: 0
+Reset count: 23
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:49:06
+Episode time: 0.86 seconds
+Total training time: 90.66 seconds
+Steps taken: 0
+Reset count: 34
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:49:16
+Episode time: 2.15 seconds
+Total training time: 100.72 seconds
+Steps taken: 0
+Reset count: 42
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:50:54
+Episode time: 27.45 seconds
+Total training time: 30.30 seconds
+Steps taken: 0
+Reset count: 4
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:51:21
+Episode time: 27.12 seconds
+Total training time: 57.95 seconds
+Steps taken: 0
+Reset count: 6
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:51:34
+Episode time: 2.12 seconds
+Total training time: 70.96 seconds
+Steps taken: 0
+Reset count: 17
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:51:42
+Episode time: 3.07 seconds
+Total training time: 78.37 seconds
+Steps taken: 0
+Reset count: 21
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:51:45
+Episode time: 3.35 seconds
+Total training time: 81.72 seconds
+Steps taken: 0
+Reset count: 22
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:51:50
+Episode time: 4.72 seconds
+Total training time: 86.44 seconds
+Steps taken: 0
+Reset count: 23
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:01
+Episode time: 1.89 seconds
+Total training time: 97.34 seconds
+Steps taken: 0
+Reset count: 34
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:07
+Episode time: 3.17 seconds
+Total training time: 103.66 seconds
+Steps taken: 0
+Reset count: 39
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:10
+Episode time: 1.42 seconds
+Total training time: 106.35 seconds
+Steps taken: 0
+Reset count: 42
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:22
+Episode time: 2.04 seconds
+Total training time: 119.21 seconds
+Steps taken: 0
+Reset count: 56
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:44
+Episode time: 1.19 seconds
+Total training time: 140.80 seconds
+Steps taken: 0
+Reset count: 76
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:52
+Episode time: 1.16 seconds
+Total training time: 149.15 seconds
+Steps taken: 0
+Reset count: 85
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:52:58
+Episode time: 0.88 seconds
+Total training time: 154.71 seconds
+Steps taken: 0
+Reset count: 91
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:53:35
+Episode time: 1.75 seconds
+Total training time: 192.13 seconds
+Steps taken: 0
+Reset count: 132
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:53:56
+Episode time: 1.56 seconds
+Total training time: 212.77 seconds
+Steps taken: 0
+Reset count: 155
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 11:53:59
+Episode time: 0.67 seconds
+Total training time: 215.81 seconds
+Steps taken: 0
+Reset count: 160
+==================================================

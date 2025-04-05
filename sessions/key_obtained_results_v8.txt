@@ -1,0 +1,2681 @@
+
+==================================================
+Key obtained at: 2025-04-05 12:25:28
+Episode time: 17.00 seconds
+Total training time: 52.93 seconds
+Steps taken: 5259
+Reset count: 8
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 10)
+Evaluation time: 2025-04-05 12:25:30
+Time interval: 54.86 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 5259.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:25:34
+Episode time: 3.86 seconds
+Total training time: 58.72 seconds
+Steps taken: 1082
+Reset count: 11
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:25:40
+Episode time: 3.02 seconds
+Total training time: 64.57 seconds
+Steps taken: 713
+Reset count: 15
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:25:45
+Episode time: 3.07 seconds
+Total training time: 69.91 seconds
+Steps taken: 747
+Reset count: 20
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 20)
+Evaluation time: 2025-04-05 12:25:45
+Time interval: 15.05 seconds
+Success rate: 30.00%
+Average steps for successful episodes: 847.33
+Average reward: 0.00
+Battle phase status: Exploration
+Battle/Exploration transition counter: 63/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:25:54
+Episode time: 2.40 seconds
+Total training time: 79.31 seconds
+Steps taken: 832
+Reset count: 23
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:25:59
+Episode time: 3.61 seconds
+Total training time: 83.74 seconds
+Steps taken: 979
+Reset count: 25
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:03
+Episode time: 2.32 seconds
+Total training time: 88.35 seconds
+Steps taken: 805
+Reset count: 30
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 30)
+Evaluation time: 2025-04-05 12:26:03
+Time interval: 18.44 seconds
+Success rate: 30.00%
+Average steps for successful episodes: 872.00
+Average reward: 0.00
+Battle phase status: Exploration
+Battle/Exploration transition counter: 91/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:14
+Episode time: 3.15 seconds
+Total training time: 98.85 seconds
+Steps taken: 815
+Reset count: 33
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 40)
+Evaluation time: 2025-04-05 12:26:20
+Time interval: 16.19 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 815.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:27
+Episode time: 2.10 seconds
+Total training time: 111.62 seconds
+Steps taken: 451
+Reset count: 50
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 50)
+Evaluation time: 2025-04-05 12:26:27
+Time interval: 7.08 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 451.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 60)
+Evaluation time: 2025-04-05 12:26:36
+Time interval: 9.10 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 70)
+Evaluation time: 2025-04-05 12:26:44
+Time interval: 8.62 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:54
+Episode time: 1.12 seconds
+Total training time: 139.03 seconds
+Steps taken: 388
+Reset count: 80
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 80)
+Evaluation time: 2025-04-05 12:26:54
+Time interval: 9.68 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 388.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:55
+Episode time: 0.78 seconds
+Total training time: 139.81 seconds
+Steps taken: 268
+Reset count: 81
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:26:58
+Episode time: 1.58 seconds
+Total training time: 142.45 seconds
+Steps taken: 549
+Reset count: 83
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 90)
+Evaluation time: 2025-04-05 12:27:08
+Time interval: 13.56 seconds
+Success rate: 20.00%
+Average steps for successful episodes: 408.50
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:15
+Episode time: 0.72 seconds
+Total training time: 159.86 seconds
+Steps taken: 248
+Reset count: 99
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 100)
+Evaluation time: 2025-04-05 12:27:16
+Time interval: 8.26 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 248.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:23
+Episode time: 0.73 seconds
+Total training time: 167.88 seconds
+Steps taken: 250
+Reset count: 106
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:24
+Episode time: 1.14 seconds
+Total training time: 169.02 seconds
+Steps taken: 391
+Reset count: 107
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 110)
+Evaluation time: 2025-04-05 12:27:26
+Time interval: 9.95 seconds
+Success rate: 20.00%
+Average steps for successful episodes: 320.50
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:28
+Episode time: 1.62 seconds
+Total training time: 172.43 seconds
+Steps taken: 292
+Reset count: 111
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:28
+Episode time: 0.91 seconds
+Total training time: 173.34 seconds
+Steps taken: 316
+Reset count: 112
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:30
+Episode time: 1.56 seconds
+Total training time: 174.90 seconds
+Steps taken: 537
+Reset count: 113
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 120)
+Evaluation time: 2025-04-05 12:27:35
+Time interval: 9.53 seconds
+Success rate: 30.00%
+Average steps for successful episodes: 381.67
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 130)
+Evaluation time: 2025-04-05 12:27:44
+Time interval: 8.40 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 140)
+Evaluation time: 2025-04-05 12:27:53
+Time interval: 9.23 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:58
+Episode time: 1.02 seconds
+Total training time: 202.83 seconds
+Steps taken: 348
+Reset count: 144
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:27:59
+Episode time: 0.70 seconds
+Total training time: 204.10 seconds
+Steps taken: 239
+Reset count: 146
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 150)
+Evaluation time: 2025-04-05 12:28:03
+Time interval: 9.75 seconds
+Success rate: 20.00%
+Average steps for successful episodes: 293.50
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 160)
+Evaluation time: 2025-04-05 12:28:14
+Time interval: 10.71 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 170)
+Evaluation time: 2025-04-05 12:28:22
+Time interval: 8.51 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 180)
+Evaluation time: 2025-04-05 12:28:30
+Time interval: 7.76 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:28:40
+Episode time: 0.77 seconds
+Total training time: 244.63 seconds
+Steps taken: 264
+Reset count: 189
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 190)
+Evaluation time: 2025-04-05 12:28:41
+Time interval: 10.97 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 264.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:28:46
+Episode time: 0.67 seconds
+Total training time: 251.15 seconds
+Steps taken: 228
+Reset count: 198
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 200)
+Evaluation time: 2025-04-05 12:28:48
+Time interval: 7.13 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 228.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 210)
+Evaluation time: 2025-04-05 12:29:01
+Time interval: 13.02 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 220)
+Evaluation time: 2025-04-05 12:29:12
+Time interval: 10.84 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 230)
+Evaluation time: 2025-04-05 12:29:22
+Time interval: 9.80 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Key obtained at: 2025-04-05 12:29:31
+Episode time: 0.64 seconds
+Total training time: 295.92 seconds
+Steps taken: 218
+Reset count: 238
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 240)
+Evaluation time: 2025-04-05 12:29:32
+Time interval: 10.58 seconds
+Success rate: 10.00%
+Average steps for successful episodes: 218.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 250)
+Evaluation time: 2025-04-05 12:29:48
+Time interval: 15.60 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 260)
+Evaluation time: 2025-04-05 12:29:58
+Time interval: 10.68 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 270)
+Evaluation time: 2025-04-05 12:30:11
+Time interval: 12.31 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 280)
+Evaluation time: 2025-04-05 12:30:25
+Time interval: 13.94 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 290)
+Evaluation time: 2025-04-05 12:30:39
+Time interval: 13.96 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 300)
+Evaluation time: 2025-04-05 12:30:51
+Time interval: 12.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 310)
+Evaluation time: 2025-04-05 12:31:02
+Time interval: 10.61 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 320)
+Evaluation time: 2025-04-05 12:31:15
+Time interval: 12.96 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 330)
+Evaluation time: 2025-04-05 12:31:28
+Time interval: 13.30 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 340)
+Evaluation time: 2025-04-05 12:31:41
+Time interval: 12.37 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 350)
+Evaluation time: 2025-04-05 12:31:50
+Time interval: 9.67 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 360)
+Evaluation time: 2025-04-05 12:32:03
+Time interval: 12.53 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 370)
+Evaluation time: 2025-04-05 12:32:13
+Time interval: 10.58 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 380)
+Evaluation time: 2025-04-05 12:32:22
+Time interval: 8.17 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 390)
+Evaluation time: 2025-04-05 12:32:32
+Time interval: 10.42 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 400)
+Evaluation time: 2025-04-05 12:32:45
+Time interval: 12.56 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 410)
+Evaluation time: 2025-04-05 12:32:59
+Time interval: 14.21 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 420)
+Evaluation time: 2025-04-05 12:33:10
+Time interval: 10.75 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 430)
+Evaluation time: 2025-04-05 12:33:19
+Time interval: 9.52 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 440)
+Evaluation time: 2025-04-05 12:33:31
+Time interval: 12.08 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 450)
+Evaluation time: 2025-04-05 12:33:45
+Time interval: 14.01 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 460)
+Evaluation time: 2025-04-05 12:33:59
+Time interval: 13.34 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 470)
+Evaluation time: 2025-04-05 12:34:10
+Time interval: 11.92 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 480)
+Evaluation time: 2025-04-05 12:34:19
+Time interval: 9.02 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 490)
+Evaluation time: 2025-04-05 12:34:30
+Time interval: 10.17 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 500)
+Evaluation time: 2025-04-05 12:34:42
+Time interval: 12.84 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 510)
+Evaluation time: 2025-04-05 12:34:53
+Time interval: 10.13 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 520)
+Evaluation time: 2025-04-05 12:35:04
+Time interval: 11.24 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 530)
+Evaluation time: 2025-04-05 12:35:17
+Time interval: 12.66 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 540)
+Evaluation time: 2025-04-05 12:35:25
+Time interval: 8.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 550)
+Evaluation time: 2025-04-05 12:35:38
+Time interval: 12.96 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 560)
+Evaluation time: 2025-04-05 12:35:52
+Time interval: 13.58 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 570)
+Evaluation time: 2025-04-05 12:36:06
+Time interval: 14.39 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 580)
+Evaluation time: 2025-04-05 12:36:23
+Time interval: 16.48 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 590)
+Evaluation time: 2025-04-05 12:36:40
+Time interval: 16.83 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 600)
+Evaluation time: 2025-04-05 12:36:58
+Time interval: 18.78 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 610)
+Evaluation time: 2025-04-05 12:37:15
+Time interval: 17.00 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 620)
+Evaluation time: 2025-04-05 12:37:32
+Time interval: 16.64 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 630)
+Evaluation time: 2025-04-05 12:37:50
+Time interval: 17.72 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 640)
+Evaluation time: 2025-04-05 12:38:06
+Time interval: 16.64 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 650)
+Evaluation time: 2025-04-05 12:38:24
+Time interval: 17.68 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 660)
+Evaluation time: 2025-04-05 12:38:35
+Time interval: 10.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 670)
+Evaluation time: 2025-04-05 12:38:49
+Time interval: 14.41 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 680)
+Evaluation time: 2025-04-05 12:39:06
+Time interval: 16.84 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 690)
+Evaluation time: 2025-04-05 12:39:21
+Time interval: 14.94 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 700)
+Evaluation time: 2025-04-05 12:39:37
+Time interval: 16.45 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 710)
+Evaluation time: 2025-04-05 12:39:47
+Time interval: 9.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 720)
+Evaluation time: 2025-04-05 12:40:04
+Time interval: 16.51 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 730)
+Evaluation time: 2025-04-05 12:40:22
+Time interval: 17.94 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 740)
+Evaluation time: 2025-04-05 12:40:39
+Time interval: 17.32 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 750)
+Evaluation time: 2025-04-05 12:40:57
+Time interval: 17.58 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 760)
+Evaluation time: 2025-04-05 12:41:15
+Time interval: 18.48 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 770)
+Evaluation time: 2025-04-05 12:41:30
+Time interval: 15.07 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 780)
+Evaluation time: 2025-04-05 12:41:44
+Time interval: 14.28 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 790)
+Evaluation time: 2025-04-05 12:41:58
+Time interval: 13.35 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 800)
+Evaluation time: 2025-04-05 12:42:12
+Time interval: 14.60 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 810)
+Evaluation time: 2025-04-05 12:42:27
+Time interval: 14.77 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 820)
+Evaluation time: 2025-04-05 12:42:46
+Time interval: 18.40 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 830)
+Evaluation time: 2025-04-05 12:43:03
+Time interval: 17.69 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 840)
+Evaluation time: 2025-04-05 12:43:21
+Time interval: 17.99 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 850)
+Evaluation time: 2025-04-05 12:43:38
+Time interval: 16.30 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 860)
+Evaluation time: 2025-04-05 12:43:54
+Time interval: 16.78 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 870)
+Evaluation time: 2025-04-05 12:44:05
+Time interval: 11.14 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 880)
+Evaluation time: 2025-04-05 12:44:19
+Time interval: 13.58 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 890)
+Evaluation time: 2025-04-05 12:44:38
+Time interval: 19.30 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 900)
+Evaluation time: 2025-04-05 12:44:58
+Time interval: 19.58 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 910)
+Evaluation time: 2025-04-05 12:45:16
+Time interval: 17.89 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 920)
+Evaluation time: 2025-04-05 12:45:35
+Time interval: 18.89 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 930)
+Evaluation time: 2025-04-05 12:45:54
+Time interval: 19.01 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 940)
+Evaluation time: 2025-04-05 12:46:10
+Time interval: 16.64 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 950)
+Evaluation time: 2025-04-05 12:46:27
+Time interval: 16.65 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 960)
+Evaluation time: 2025-04-05 12:46:47
+Time interval: 19.91 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 970)
+Evaluation time: 2025-04-05 12:47:07
+Time interval: 20.24 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 980)
+Evaluation time: 2025-04-05 12:47:27
+Time interval: 20.21 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 990)
+Evaluation time: 2025-04-05 12:47:44
+Time interval: 16.64 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1000)
+Evaluation time: 2025-04-05 12:48:04
+Time interval: 20.38 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1010)
+Evaluation time: 2025-04-05 12:48:21
+Time interval: 16.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1020)
+Evaluation time: 2025-04-05 12:48:38
+Time interval: 17.15 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1030)
+Evaluation time: 2025-04-05 12:49:00
+Time interval: 22.06 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1040)
+Evaluation time: 2025-04-05 12:49:18
+Time interval: 17.27 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1050)
+Evaluation time: 2025-04-05 12:49:37
+Time interval: 19.37 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1060)
+Evaluation time: 2025-04-05 12:49:53
+Time interval: 15.76 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1070)
+Evaluation time: 2025-04-05 12:50:11
+Time interval: 17.88 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1080)
+Evaluation time: 2025-04-05 12:50:23
+Time interval: 12.13 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1090)
+Evaluation time: 2025-04-05 12:50:32
+Time interval: 9.33 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1100)
+Evaluation time: 2025-04-05 12:50:45
+Time interval: 12.83 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1110)
+Evaluation time: 2025-04-05 12:51:00
+Time interval: 15.34 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1120)
+Evaluation time: 2025-04-05 12:51:10
+Time interval: 9.66 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1130)
+Evaluation time: 2025-04-05 12:51:23
+Time interval: 12.71 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1140)
+Evaluation time: 2025-04-05 12:51:33
+Time interval: 10.37 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1150)
+Evaluation time: 2025-04-05 12:51:49
+Time interval: 16.31 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1160)
+Evaluation time: 2025-04-05 12:52:08
+Time interval: 18.43 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1170)
+Evaluation time: 2025-04-05 12:52:24
+Time interval: 16.45 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1180)
+Evaluation time: 2025-04-05 12:52:44
+Time interval: 20.26 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1190)
+Evaluation time: 2025-04-05 12:53:05
+Time interval: 20.87 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1200)
+Evaluation time: 2025-04-05 12:53:27
+Time interval: 21.69 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1210)
+Evaluation time: 2025-04-05 12:53:49
+Time interval: 21.69 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1220)
+Evaluation time: 2025-04-05 12:54:01
+Time interval: 12.75 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1230)
+Evaluation time: 2025-04-05 12:54:16
+Time interval: 14.10 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1240)
+Evaluation time: 2025-04-05 12:54:32
+Time interval: 16.79 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1250)
+Evaluation time: 2025-04-05 12:54:46
+Time interval: 13.56 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1260)
+Evaluation time: 2025-04-05 12:54:58
+Time interval: 11.71 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1270)
+Evaluation time: 2025-04-05 12:55:16
+Time interval: 18.23 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1280)
+Evaluation time: 2025-04-05 12:55:34
+Time interval: 18.51 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1290)
+Evaluation time: 2025-04-05 12:55:55
+Time interval: 20.94 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1300)
+Evaluation time: 2025-04-05 12:56:16
+Time interval: 20.95 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1310)
+Evaluation time: 2025-04-05 12:56:38
+Time interval: 21.44 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1320)
+Evaluation time: 2025-04-05 12:56:58
+Time interval: 19.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1330)
+Evaluation time: 2025-04-05 12:57:17
+Time interval: 19.22 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1340)
+Evaluation time: 2025-04-05 12:57:37
+Time interval: 20.54 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1350)
+Evaluation time: 2025-04-05 12:57:56
+Time interval: 19.20 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1360)
+Evaluation time: 2025-04-05 12:58:16
+Time interval: 19.80 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1370)
+Evaluation time: 2025-04-05 12:58:37
+Time interval: 20.33 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1380)
+Evaluation time: 2025-04-05 12:58:53
+Time interval: 16.12 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1390)
+Evaluation time: 2025-04-05 12:59:05
+Time interval: 11.90 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1400)
+Evaluation time: 2025-04-05 12:59:17
+Time interval: 11.97 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1410)
+Evaluation time: 2025-04-05 12:59:28
+Time interval: 11.63 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1420)
+Evaluation time: 2025-04-05 12:59:39
+Time interval: 10.52 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1430)
+Evaluation time: 2025-04-05 12:59:55
+Time interval: 16.72 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1440)
+Evaluation time: 2025-04-05 13:00:16
+Time interval: 20.26 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1450)
+Evaluation time: 2025-04-05 13:00:34
+Time interval: 18.12 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1460)
+Evaluation time: 2025-04-05 13:00:46
+Time interval: 11.80 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1470)
+Evaluation time: 2025-04-05 13:00:59
+Time interval: 13.78 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1480)
+Evaluation time: 2025-04-05 13:01:15
+Time interval: 15.86 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1490)
+Evaluation time: 2025-04-05 13:01:35
+Time interval: 19.53 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1500)
+Evaluation time: 2025-04-05 13:01:53
+Time interval: 17.96 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1510)
+Evaluation time: 2025-04-05 13:02:12
+Time interval: 19.17 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1520)
+Evaluation time: 2025-04-05 13:02:22
+Time interval: 10.36 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1530)
+Evaluation time: 2025-04-05 13:02:36
+Time interval: 14.12 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1540)
+Evaluation time: 2025-04-05 13:02:47
+Time interval: 10.70 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1550)
+Evaluation time: 2025-04-05 13:02:56
+Time interval: 8.41 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1560)
+Evaluation time: 2025-04-05 13:03:17
+Time interval: 21.35 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1570)
+Evaluation time: 2025-04-05 13:03:27
+Time interval: 10.51 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1580)
+Evaluation time: 2025-04-05 13:03:39
+Time interval: 11.33 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1590)
+Evaluation time: 2025-04-05 13:03:47
+Time interval: 8.47 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1600)
+Evaluation time: 2025-04-05 13:04:02
+Time interval: 15.20 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1610)
+Evaluation time: 2025-04-05 13:04:15
+Time interval: 12.77 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1620)
+Evaluation time: 2025-04-05 13:04:21
+Time interval: 6.20 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1630)
+Evaluation time: 2025-04-05 13:04:36
+Time interval: 14.92 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1640)
+Evaluation time: 2025-04-05 13:04:52
+Time interval: 15.52 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1650)
+Evaluation time: 2025-04-05 13:05:04
+Time interval: 12.00 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1660)
+Evaluation time: 2025-04-05 13:05:10
+Time interval: 6.03 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1670)
+Evaluation time: 2025-04-05 13:05:17
+Time interval: 7.42 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1680)
+Evaluation time: 2025-04-05 13:05:26
+Time interval: 9.01 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1690)
+Evaluation time: 2025-04-05 13:05:37
+Time interval: 11.01 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1700)
+Evaluation time: 2025-04-05 13:05:52
+Time interval: 14.53 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1710)
+Evaluation time: 2025-04-05 13:06:01
+Time interval: 8.95 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1720)
+Evaluation time: 2025-04-05 13:06:07
+Time interval: 6.30 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1730)
+Evaluation time: 2025-04-05 13:06:21
+Time interval: 13.97 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1740)
+Evaluation time: 2025-04-05 13:06:35
+Time interval: 14.39 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1750)
+Evaluation time: 2025-04-05 13:06:55
+Time interval: 20.03 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1760)
+Evaluation time: 2025-04-05 13:07:16
+Time interval: 20.21 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1770)
+Evaluation time: 2025-04-05 13:07:34
+Time interval: 18.69 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1780)
+Evaluation time: 2025-04-05 13:07:53
+Time interval: 18.57 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1790)
+Evaluation time: 2025-04-05 13:08:04
+Time interval: 11.15 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1800)
+Evaluation time: 2025-04-05 13:08:17
+Time interval: 12.66 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1810)
+Evaluation time: 2025-04-05 13:08:26
+Time interval: 9.75 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1820)
+Evaluation time: 2025-04-05 13:08:35
+Time interval: 8.92 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1830)
+Evaluation time: 2025-04-05 13:08:44
+Time interval: 8.73 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1840)
+Evaluation time: 2025-04-05 13:08:55
+Time interval: 10.54 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1850)
+Evaluation time: 2025-04-05 13:09:09
+Time interval: 14.16 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1860)
+Evaluation time: 2025-04-05 13:09:23
+Time interval: 14.10 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1870)
+Evaluation time: 2025-04-05 13:09:39
+Time interval: 16.48 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1880)
+Evaluation time: 2025-04-05 13:09:57
+Time interval: 17.18 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1890)
+Evaluation time: 2025-04-05 13:10:04
+Time interval: 7.85 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1900)
+Evaluation time: 2025-04-05 13:10:16
+Time interval: 11.76 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1910)
+Evaluation time: 2025-04-05 13:10:27
+Time interval: 10.36 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1920)
+Evaluation time: 2025-04-05 13:10:36
+Time interval: 9.73 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1930)
+Evaluation time: 2025-04-05 13:10:51
+Time interval: 14.72 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1940)
+Evaluation time: 2025-04-05 13:11:10
+Time interval: 19.26 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1950)
+Evaluation time: 2025-04-05 13:11:32
+Time interval: 21.52 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1960)
+Evaluation time: 2025-04-05 13:11:51
+Time interval: 18.91 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1970)
+Evaluation time: 2025-04-05 13:12:10
+Time interval: 19.77 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1980)
+Evaluation time: 2025-04-05 13:12:22
+Time interval: 11.81 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 1990)
+Evaluation time: 2025-04-05 13:12:40
+Time interval: 17.23 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2000)
+Evaluation time: 2025-04-05 13:12:53
+Time interval: 13.85 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2010)
+Evaluation time: 2025-04-05 13:13:13
+Time interval: 19.53 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2020)
+Evaluation time: 2025-04-05 13:13:28
+Time interval: 15.59 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2030)
+Evaluation time: 2025-04-05 13:13:42
+Time interval: 13.38 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2040)
+Evaluation time: 2025-04-05 13:14:02
+Time interval: 19.80 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2050)
+Evaluation time: 2025-04-05 13:14:22
+Time interval: 20.48 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2060)
+Evaluation time: 2025-04-05 13:14:42
+Time interval: 19.68 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2070)
+Evaluation time: 2025-04-05 13:15:03
+Time interval: 20.95 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2080)
+Evaluation time: 2025-04-05 13:15:23
+Time interval: 19.94 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2090)
+Evaluation time: 2025-04-05 13:15:44
+Time interval: 21.29 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2100)
+Evaluation time: 2025-04-05 13:15:59
+Time interval: 14.95 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2110)
+Evaluation time: 2025-04-05 13:16:16
+Time interval: 17.52 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2120)
+Evaluation time: 2025-04-05 13:16:29
+Time interval: 12.99 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2130)
+Evaluation time: 2025-04-05 13:16:41
+Time interval: 11.87 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2140)
+Evaluation time: 2025-04-05 13:16:57
+Time interval: 15.83 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2150)
+Evaluation time: 2025-04-05 13:17:09
+Time interval: 11.70 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2160)
+Evaluation time: 2025-04-05 13:17:26
+Time interval: 16.70 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2170)
+Evaluation time: 2025-04-05 13:17:39
+Time interval: 13.84 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2180)
+Evaluation time: 2025-04-05 13:17:54
+Time interval: 14.27 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2190)
+Evaluation time: 2025-04-05 13:18:01
+Time interval: 7.40 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2200)
+Evaluation time: 2025-04-05 13:18:11
+Time interval: 9.99 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2210)
+Evaluation time: 2025-04-05 13:18:25
+Time interval: 13.55 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2220)
+Evaluation time: 2025-04-05 13:18:46
+Time interval: 21.44 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2230)
+Evaluation time: 2025-04-05 13:18:55
+Time interval: 9.35 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2240)
+Evaluation time: 2025-04-05 13:19:13
+Time interval: 17.75 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2250)
+Evaluation time: 2025-04-05 13:19:33
+Time interval: 19.67 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2260)
+Evaluation time: 2025-04-05 13:19:39
+Time interval: 6.08 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================
+
+==================================================
+Training Efficiency Evaluation (Episode 2270)
+Evaluation time: 2025-04-05 13:19:47
+Time interval: 8.35 seconds
+Success rate: 0.00%
+Average steps for successful episodes: 0.00
+Average reward: 0.00
+Battle phase status: Battle
+Battle/Exploration transition counter: 0/5
+==================================================

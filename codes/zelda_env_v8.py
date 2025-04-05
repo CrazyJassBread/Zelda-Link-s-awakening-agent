@@ -5,9 +5,10 @@ from pyboy import PyBoy
 from pyboy.utils import WindowEvent
 from pathlib import Path
 import time
-# #################################################################################
-# 找到了自己的(x, y), 和钥匙的位置，增加奖励函数的方法, 位置学错了，直接跑过去了，不*2了 #
-###################################################################################
+
+# ####################################################################################################
+# 添加战斗的跟随，一开始先主要进行杀敌人的操作，然后再继续靠近钥匙，然后对按键进行控制 并且输出进行效率的判断。#
+######################################################################################################
 
 class ZeldaEnv(gym.Env):
     def __init__(self, rom_path, config=None):
@@ -25,6 +26,23 @@ class ZeldaEnv(gym.Env):
         self.frame_stacks = 3  # 堆叠的帧数
         self.action_freq = config.get("action_freq", 4)  # 动作频率
         self.max_steps = config.get("max_steps", 10000000)  # 最大步骤数
+
+        # 训练效率评估指标
+        self.episode_rewards = []  # 每个回合的总奖励
+        self.episode_steps = []  # 每个回合的总步数
+        self.episode_success = []  # 每个回合是否成功
+        self.evaluation_interval = 10  # 每多少个回合评估一次
+        self.total_episodes = 0  # 总回合数
+        self.success_rate_history = []  # 成功率历史
+        self.avg_steps_history = []  # 平均步数历史
+        self.avg_reward_history = []  # 平均奖励历史
+        self.last_evaluation_time = time.time()  # 上次评估时间
+
+        # 添加战斗阶段跟踪
+        self.battle_phase = True  # 初始为战斗阶段
+        self.health_stable_count = 0  # 用于跟踪生命值稳定的次数
+        self.health_stable_transition = 5  # 生命值稳定多少次后转为探索阶段
+        self.last_health_change_time = 0  # 上次生命值变化的时间
 
         self.s_path.mkdir(exist_ok=True)  # 创建存储路径
         # self.full_frame_writer = None  # 完整视频帧写入器
@@ -108,7 +126,7 @@ class ZeldaEnv(gym.Env):
 
          # 添加记录获取钥匙时间的列表和文件路径
         self.key_obtained_times = []
-        self.results_file = Path(self.s_path) / "key_obtained_results_v7.txt"
+        self.results_file = Path(self.s_path) / "key_obtained_results_v8.txt"
         self.episode_start_time = None
 
 
@@ -116,7 +134,22 @@ class ZeldaEnv(gym.Env):
         # 记录每个回合的开始时间
         self.episode_start_time = time.time()
 
+        # 在回合结束时记录上一回合的统计信息（如果不是首次reset）
+        if hasattr(self, 'step_count') and self.step_count > 0:
+            self.episode_steps.append(self.step_count)
+            self.episode_success.append(self.key_obtained)
+            self.episode_rewards.append(self.cumulative_reward)
+            self.total_episodes += 1
+            
+            # 定期评估训练效率
+            if self.total_episodes % self.evaluation_interval == 0:
+                self.evaluate_training_efficiency()
+
         self.health_history = []
+        # 重置战斗阶段标志
+        self.battle_phase = True
+        self.health_stable_count = 0
+        self.last_health_change_time = time.time()
 
         self.seed = seed
             # 加载游戏的初始状态
@@ -314,7 +347,7 @@ class ZeldaEnv(gym.Env):
         # 综合所有奖励
         total_reward = (
             position_reward +  # 接近目标的奖励
-            # exploration_reward +  # 探索新区域的奖励
+            exploration_reward +  # 探索新区域的奖励
             movement_reward +  # 移动奖励
             room_reward +  # 房间位置奖励
             key_reward +  # 获得钥匙奖励
@@ -323,7 +356,7 @@ class ZeldaEnv(gym.Env):
             button_penalty  # 添加按键惩罚
         )
         
-        self.cumulative_reward += total_reward
+        # self.cumulative_reward += total_reward  # 好像没用到累计？
         return total_reward
     
 
@@ -334,35 +367,125 @@ class ZeldaEnv(gym.Env):
         return self.pyboy.memory[addr]
 
     def _get_reward(self,action = None):
-        # 这里可以根据游戏状态计算奖励，例如使用 get_game_state_reward 方法
         return self.get_game_state_reward(action)
 
     def _is_done(self):
-        # 这里可以根据游戏状态判断是否结束，例如生命值为 0 等
-        # current_health = self.pyboy.memory[0xDB5A]
         return self.key_obtained == True
 
-    # def close(self):
-    #     self.pyboy.stop()
+    def evaluate_training_efficiency(self):
+        """评估训练效率并记录历史数据"""
+        now = time.time()
+        time_since_last = now - self.last_evaluation_time
+        self.last_evaluation_time = now
+        
+        # 计算最近的评估窗口内的指标
+        recent_episodes = min(self.evaluation_interval, len(self.episode_success))
+        if recent_episodes == 0:
+            return
+            
+        recent_success = self.episode_success[-recent_episodes:]
+        recent_steps = self.episode_steps[-recent_episodes:]
+        recent_rewards = self.episode_rewards[-recent_episodes:]
+        
+        # 计算成功率
+        success_rate = sum(recent_success) / recent_episodes * 100
+        self.success_rate_history.append(success_rate)
+        
+        # 计算成功回合的平均步数
+        successful_steps = [s for s, success in zip(recent_steps, recent_success) if success]
+        avg_steps = sum(successful_steps) / max(1, len(successful_steps)) if successful_steps else 0
+        self.avg_steps_history.append(avg_steps)
+        
+        # 计算平均奖励
+        avg_reward = sum(recent_rewards) / recent_episodes
+        self.avg_reward_history.append(avg_reward)
+        
+        # 输出评估结果
+        print("\n" + "="*50)
+        print(f"Training Efficiency Evaluation (Episode {self.total_episodes})")
+        print(f"Time interval: {time_since_last:.2f} seconds")
+        print(f"Success rate: {success_rate:.2f}%")
+        print(f"Average steps for successful episodes: {avg_steps:.2f}")
+        print(f"Average reward: {avg_reward:.2f}")
+        print(f"Battle phase status: {'Battle' if self.battle_phase else 'Exploration'}")
+        print(f"Current episode steps: {self.step_count}")
+        print("="*50 + "\n")
+        
+        # 将评估结果写入文件
+        with open(self.results_file, 'a') as f:
+            f.write(f"\n{'='*50}\n")
+            f.write(f"Training Efficiency Evaluation (Episode {self.total_episodes})\n")
+            f.write(f"Evaluation time: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Time interval: {time_since_last:.2f} seconds\n")
+            f.write(f"Success rate: {success_rate:.2f}%\n")
+            f.write(f"Average steps for successful episodes: {avg_steps:.2f}\n")
+            f.write(f"Average reward: {avg_reward:.2f}\n")
+            f.write(f"Battle phase status: {'Battle' if self.battle_phase else 'Exploration'}\n")
+            f.write(f"Battle/Exploration transition counter: {self.health_stable_count}/{self.health_stable_transition}\n")
+            f.write(f"{'='*50}\n")
+
     def close(self):
         # 在环境关闭时打印汇总信息
-        if self.key_obtained_times:
-            print("\nTraining Summary:")
-            print(f"Total successful attempts: {len(self.key_obtained_times)}")
-            avg_episode_time = sum(x['episode_time'] for x in self.key_obtained_times) / len(self.key_obtained_times)
-            avg_steps = sum(x['step_count'] for x in self.key_obtained_times) / len(self.key_obtained_times)
-            print(f"Average time per successful attempt: {avg_episode_time:.2f} seconds")
-            print(f"Average steps per successful attempt: {avg_steps:.2f}")
+        print("\n" + "="*50)
+        print("Training Summary")
+        print(f"Total episodes: {self.total_episodes}")
+        
+        if self.episode_success:
+            success_rate = sum(self.episode_success) / len(self.episode_success) * 100
+            print(f"Overall success rate: {success_rate:.2f}%")
             
-            # 将汇总信息也写入文件
-            with open(self.results_file, 'a') as f:
-                f.write("\nTraining Summary:\n")
-                f.write(f"Total successful attempts: {len(self.key_obtained_times)}\n")
-                f.write(f"Average time per successful attempt: {avg_episode_time:.2f} seconds\n")
-                f.write(f"Average steps per successful attempt: {avg_steps:.2f}\n")
+            successful_episodes = [i for i, success in enumerate(self.episode_success) if success]
+            print(f"Successful episodes: {len(successful_episodes)}/{len(self.episode_success)}")
+            
+            if successful_episodes:
+                successful_steps = [self.episode_steps[i] for i in successful_episodes]
+                avg_steps = sum(successful_steps) / len(successful_steps)
+                print(f"Average steps per successful episode: {avg_steps:.2f}")
                 
+                successful_rewards = [self.episode_rewards[i] for i in successful_episodes]
+                avg_reward = sum(successful_rewards) / len(successful_rewards)
+                print(f"Average reward per successful episode: {avg_reward:.2f}")
+                
+                total_time = time.time() - self.start_time
+                print(f"Total training time: {total_time:.2f} seconds")
+                print(f"Average time per success: {total_time/max(1, len(successful_episodes)):.2f} seconds")
+            
+        print("="*50 + "\n")
+        
+        # 将汇总信息也写入文件
+        with open(self.results_file, 'a') as f:
+            f.write("\n" + "="*50 + "\n")
+            f.write("Training Summary\n")
+            f.write(f"Total episodes: {self.total_episodes}\n")
+            
+            if self.episode_success:
+                success_rate = sum(self.episode_success) / len(self.episode_success) * 100
+                f.write(f"Overall success rate: {success_rate:.2f}%\n")
+                
+                successful_episodes = [i for i, success in enumerate(self.episode_success) if success]
+                f.write(f"Successful episodes: {len(successful_episodes)}/{len(self.episode_success)}\n")
+                
+                if successful_episodes:
+                    successful_steps = [self.episode_steps[i] for i in successful_episodes]
+                    avg_steps = sum(successful_steps) / len(successful_steps)
+                    f.write(f"Average steps per successful episode: {avg_steps:.2f}\n")
+                    
+                    successful_rewards = [self.episode_rewards[i] for i in successful_episodes]
+                    avg_reward = sum(successful_rewards) / len(successful_rewards)
+                    f.write(f"Average reward per successful episode: {avg_reward:.2f}\n")
+                    
+                    total_time = time.time() - self.start_time
+                    f.write(f"Total training time: {total_time:.2f} seconds\n")
+                    f.write(f"Average time per success: {total_time/max(1, len(successful_episodes)):.2f} seconds\n")
+            
+            f.write("="*50 + "\n")
+        
+        if self.key_obtained_times:
+            print("\nDetailed Success Records:")
+            for i, record in enumerate(self.key_obtained_times):
+                print(f"Success #{i+1}: Steps={record['step_count']}, Episode time={record['episode_time']:.2f} seconds")
+            
         self.pyboy.stop()
-
 
     def _get_obs(self):
         # 获取当前状态
@@ -413,11 +536,46 @@ class ZeldaEnv(gym.Env):
         # self.prev_enemy_memory = current_enemy_memory
 
     def step(self, action):
+        # 保存原始动作
+        original_action = action
+        
+        # 检查是否处于探索阶段(非战斗阶段)且尝试使用A/B键
+        if not self.battle_phase and (self.valid_actions[action] in [WindowEvent.PRESS_BUTTON_A, WindowEvent.PRESS_BUTTON_B]):
+            # 随机选择一个移动键（下、左、右、上）的索引，范围是0-3
+            action = np.random.randint(0, 4)
+            print(f"Exploration phase: Changed action from {original_action}(A/B button) to {action}(direction key)")
+            
         # 处理动作
         self._take_action(action)
 
         # 获取新的状态
         state = self._get_obs()
+        
+        # 更新步数计数器
+        self.step_count += 1
+
+        # 获取当前生命值
+        current_health = self.pyboy.memory[0xDB5A]
+        
+        # 检查生命值是否变化
+        if current_health != self.last_health:
+            # 生命值变化，重置稳定计数
+            self.health_stable_count = 0
+            self.last_health_change_time = time.time()
+            # 如果生命值减少，确保处于战斗阶段
+            if current_health < self.last_health:
+                self.battle_phase = True
+                print("Damage detected, switching to battle phase")
+        else:
+            # 如果生命值稳定并且超过一定时间
+            if time.time() - self.last_health_change_time > 2.0:  # 假设2秒无变化为稳定
+                self.health_stable_count += 1
+                if self.health_stable_count >= self.health_stable_transition and self.battle_phase:
+                    self.battle_phase = False
+                    print("Health stable, enemies cleared, switching to exploration phase")
+                    
+        # 更新last_health
+        self.last_health = current_health
 
         # 获取当前位置
         current_position = self.pyboy.memory[0xDBAE]
@@ -431,7 +589,6 @@ class ZeldaEnv(gym.Env):
             state = self.reset()[0]  # 重置环境并获取初始状态
 
         # 检查生命值
-        current_health = self.pyboy.memory[0xDB5A]  # 当前生命值
         if current_health == 0:
             # 生命值为零，按下 'x' 键重新开始
             print("Health is zero, restarting the game!")
@@ -440,21 +597,18 @@ class ZeldaEnv(gym.Env):
             self.pyboy.send_input(WindowEvent.STATE_LOAD)  # 释放 'x' 键
             state = self.reset()[0]  # 重置环境并获取初始状态
 
-        # # 根据动作类型调整奖励, 这里是根据钥匙的位置来的，钥匙偏左，并且稍微偏上（训练过程总是向下走不知道为什么）
-        # if self.valid_actions[action] == WindowEvent.PRESS_ARROW_LEFT:
-        #     additional_reward = 50  # 向左走加10点奖励
-        # elif self.valid_actions[action] == WindowEvent.PRESS_ARROW_RIGHT:
-        #     additional_reward = -50  # 向右走减10点奖励
-        # elif self.valid_actions[action] == WindowEvent.PRESS_ARROW_UP:
-        #     additional_reward = 10
-        # else:
-        #     additional_reward = 0
-
-            # 计算奖励
+        # 计算奖励
         reward = self._get_reward(action)
-
-        # 检查是否结束
-        done = self._is_done()
+        
+        # 根据战斗阶段调整奖励
+        if self.battle_phase:
+            # 在战斗阶段，鼓励使用A/B键
+            if self.valid_actions[action] in [WindowEvent.PRESS_BUTTON_A, WindowEvent.PRESS_BUTTON_B]:
+                reward += 20  # 给予额外奖励
+        else:
+            # 在探索阶段，惩罚使用A/B键
+            if self.valid_actions[original_action] in [WindowEvent.PRESS_BUTTON_A, WindowEvent.PRESS_BUTTON_B]:
+                reward -= 50  # 给予惩罚
 
         # 检查是否结束
         terminated = self._is_done()
@@ -462,7 +616,8 @@ class ZeldaEnv(gym.Env):
 
         info = {
             "TimeLimit.terminated": terminated,
-            "TimeLimit.truncated": truncated
+            "TimeLimit.truncated": truncated,
+            "battle_phase": self.battle_phase
         }
 
         return state, reward, terminated, truncated, info
