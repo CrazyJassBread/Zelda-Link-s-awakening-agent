@@ -1,0 +1,2046 @@
+开始记录: 2025-04-06 00:27:14
+Successfully loaded game state from D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb.state
+---------------------------------------------------------------------
+Sprite [13]: Position: (101, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (109, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (75, 49),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (83, 49),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (101, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (109, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (75, 49),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (83, 49),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (100, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (108, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (76, 50),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (84, 50),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (100, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (108, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (76, 50),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (84, 50),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (100, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (108, 52),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (76, 51),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (84, 51),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (99, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (107, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (76, 51),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (84, 51),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (99, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (107, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (76, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (84, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (99, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (107, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (76, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (84, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (99, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (107, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (77, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (85, 52),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (98, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (106, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (77, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (85, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (98, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (106, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (77, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (85, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (98, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (106, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (77, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (85, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (97, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (105, 53),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (77, 54),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (85, 54),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (97, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (105, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (77, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (85, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (97, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (105, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (77, 55),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (85, 55),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (97, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (105, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (77, 55),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (85, 55),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (96, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (104, 53),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (77, 56),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (85, 56),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (96, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (104, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (77, 56),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (85, 56),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (95, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (103, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (77, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (85, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (95, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (103, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (77, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (85, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (95, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (103, 54),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (77, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (85, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (94, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (102, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (77, 58),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (85, 58),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (94, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (102, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (77, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (85, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (93, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (101, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (77, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (85, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (93, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (101, 55),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (77, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (85, 59),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (92, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (100, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (77, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (85, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (92, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (100, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (77, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (85, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (91, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (99, 56),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (84, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (91, 57),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (99, 57),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (84, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (90, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (98, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (76, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (84, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (90, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (98, 57),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (76, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (84, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (90, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (98, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (89, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (97, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (89, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (97, 58),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (76, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (84, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (88, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (96, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (76, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (84, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (88, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (96, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (76, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (84, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (87, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (95, 59),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (76, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (84, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (87, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (95, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (75, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (83, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (86, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (94, 60),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (75, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (83, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (86, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (94, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (75, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (83, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (86, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (94, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (75, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (83, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (85, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (93, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (75, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (83, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (85, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (93, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (75, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (83, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (85, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (93, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (75, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (83, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (84, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (92, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (75, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (83, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (92, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (75, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (83, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (92, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (75, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (83, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (83, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (91, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (74, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (82, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (83, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (91, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (74, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (82, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (83, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (91, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (74, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (82, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (82, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (90, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (74, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (82, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (82, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (90, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (74, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (82, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (81, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (89, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (74, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (82, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (81, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (89, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (74, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (82, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (80, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (88, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (74, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (82, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (80, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (88, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (74, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (82, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (80, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (88, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (73, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (81, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (79, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (87, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (73, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (81, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (79, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (87, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (73, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (81, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (78, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (86, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (73, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (81, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (77, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (85, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (73, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (81, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (77, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (85, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (72, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (80, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (76, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (84, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (72, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (80, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (76, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (84, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (72, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (80, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (75, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (83, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (71, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (79, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (75, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (83, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (71, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (79, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (74, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (82, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (71, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (79, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (74, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (82, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (70, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (78, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (73, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (81, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (70, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (78, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (73, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (81, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (70, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (78, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (72, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (80, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (69, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (77, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (72, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (80, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (69, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (77, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (72, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (80, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (68, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (76, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (71, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (79, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (68, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (76, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (71, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (79, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (68, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (76, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (70, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (78, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (67, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (75, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (70, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (78, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (67, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (75, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (69, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (77, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (66, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (74, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (69, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (77, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (66, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (74, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (68, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (76, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (65, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (73, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (68, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (76, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (65, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (73, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (67, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (75, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (64, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (72, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (67, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (75, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (64, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (72, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (67, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (75, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (63, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (71, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (66, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (74, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (62, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (70, 78),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (66, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (74, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (62, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (70, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (65, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (73, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (61, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (69, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (65, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (73, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (61, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (69, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (65, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (73, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (60, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (68, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (64, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (72, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (60, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (68, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (64, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (72, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (59, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (67, 78),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (63, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (71, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (59, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (67, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (63, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (71, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (58, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (66, 77),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (62, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (70, 74),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (58, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (66, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (62, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (70, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (57, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (65, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (61, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (69, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (57, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (65, 77),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (61, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (69, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (56, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (64, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (60, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (68, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (56, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (64, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (60, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (68, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (55, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (63, 76),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (60, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (68, 73),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (55, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (63, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (59, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (67, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (55, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (63, 75),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (59, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (67, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (54, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (62, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (58, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (66, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (54, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (62, 75),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (58, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (66, 72),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (53, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (61, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (58, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (66, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (53, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (61, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (57, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (65, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (53, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (61, 74),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (57, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (65, 71),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (53, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (61, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (57, 70),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (65, 70),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (52, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (60, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (57, 70),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (65, 70),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (52, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (60, 73),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (56, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (64, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (52, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (60, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (56, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (64, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (52, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (60, 72),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (56, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (64, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (51, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (59, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (56, 68),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (64, 68),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (51, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (59, 71),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (55, 68),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (63, 68),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (51, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (59, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (55, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (63, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (51, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (59, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (55, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (63, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (51, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (59, 70),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (55, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (63, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (51, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (59, 69),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (55, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (63, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (50, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (58, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (55, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (63, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (50, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (58, 69),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (55, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (63, 66),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (50, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (58, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (54, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (62, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (50, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (58, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (54, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (62, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (50, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (58, 68),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (54, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (62, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (50, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (58, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (54, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (62, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (50, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (58, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (54, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (62, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (50, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (58, 67),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (54, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (62, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (50, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (58, 67),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (54, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (62, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (50, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (58, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (54, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (62, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (50, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (58, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (54, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (62, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (50, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (58, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (54, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (62, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (50, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (58, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (54, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (62, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (50, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (58, 66),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (55, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (63, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (50, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (58, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (55, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (63, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (51, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (59, 65),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (55, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (63, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (51, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (59, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (55, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (63, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (51, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (59, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (55, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (63, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (51, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (59, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (55, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (63, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (51, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (59, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (55, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (63, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (51, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (59, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (56, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (64, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (52, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (60, 65),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (56, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (64, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (52, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (60, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (56, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (64, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (52, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (60, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (56, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (64, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (52, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (60, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (57, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (65, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (53, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (61, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (57, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (65, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (53, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (61, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (57, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (65, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (53, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (61, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (57, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (65, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (53, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (61, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (58, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (66, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (54, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (62, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (58, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (66, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (54, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (62, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (58, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (66, 62),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (55, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (63, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (59, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (67, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (55, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (63, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (59, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (67, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (55, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (63, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (60, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (68, 62),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (56, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (64, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (60, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (68, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (56, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (64, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (60, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (68, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (57, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (65, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (61, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (69, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (57, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (65, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (61, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (69, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (58, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (66, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (62, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (70, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (58, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (66, 64),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (62, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (70, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (59, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (67, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (63, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (71, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (59, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (67, 64),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (63, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (71, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (60, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (64, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (72, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (60, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (64, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (72, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (61, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (69, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (65, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (73, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (61, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (69, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (66, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (74, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (62, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (70, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (66, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (74, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (63, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (71, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (67, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (75, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (63, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (71, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (67, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (75, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (64, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (72, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (68, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (64, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (72, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (68, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (65, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (73, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (68, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (65, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (73, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (69, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (77, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (66, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (74, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (69, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (77, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (67, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (75, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (70, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (78, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (67, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (75, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (70, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (71, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (79, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (71, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (79, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (69, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (77, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (72, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (80, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (69, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (77, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (72, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (80, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (70, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (78, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (73, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (81, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (70, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (78, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (73, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (81, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (71, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (79, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (73, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (81, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (71, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (79, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (74, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (82, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (72, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (80, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (74, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (82, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (72, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (80, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (75, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (83, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (73, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (81, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (75, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (83, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (73, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (81, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (75, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (83, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [17]: Position: (74, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (82, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [18]: Position: (84, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [19]: Position: (74, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (82, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (76, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [20]: Position: (84, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [21]: Position: (75, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [22]: Position: (83, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (77, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [14]: Position: (85, 61),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [15]: Position: (75, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+Sprite [16]: Position: (83, 63),Tiles: (Tile: Tile: 70, Tile: Tile: 71), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (77, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (85, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (86, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (86, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (86, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (86, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (86, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (84, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (74, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (82, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (72, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (80, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (70, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (78, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (76, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (66, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (74, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (64, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (72, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (62, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (70, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (60, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (68, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (58, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (66, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (56, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (64, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (54, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (62, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (52, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (60, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (50, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (58, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (48, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (56, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (46, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (54, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (44, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (52, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (42, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (50, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (40, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (48, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (38, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (46, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (36, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (44, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (34, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (42, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (32, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (40, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (30, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (38, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (28, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (36, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (26, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (34, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (24, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (32, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (22, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (30, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (20, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (28, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (18, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (26, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (16, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (24, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (14, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (22, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (12, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (20, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (10, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (18, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [19]: Position: (8, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (16, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (6, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [20]: Position: (14, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [21]: Position: (4, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [22]: Position: (12, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (2, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [14]: Position: (10, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [15]: Position: (0, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (8, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (-2, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [16]: Position: (6, 61),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [17]: Position: (-4, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+Sprite [18]: Position: (4, 63),Tiles: (Tile: Tile: 68, Tile: Tile: 69), On screen: True
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Sprite [5]: Position: (22, 40),Tiles: (Tile: Tile: 4, Tile: Tile: 5), On screen: True
+---------------------------------------------------------------------
+Sprite [5]: Position: (22, 40),Tiles: (Tile: Tile: 4, Tile: Tile: 5), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Sprite [5]: Position: (22, 40),Tiles: (Tile: Tile: 4, Tile: Tile: 5), On screen: True
+---------------------------------------------------------------------
+Sprite [5]: Position: (22, 40),Tiles: (Tile: Tile: 4, Tile: Tile: 5), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (27, 43),Tiles: (Tile: Tile: 12, Tile: Tile: 13), On screen: True
+Sprite [5]: Position: (35, 43),Tiles: (Tile: Tile: 10, Tile: Tile: 11), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+Sprite [4]: Position: (33, 56),Tiles: (Tile: Tile: 8, Tile: Tile: 9), On screen: True
+Sprite [5]: Position: (41, 56),Tiles: (Tile: Tile: 6, Tile: Tile: 7), On screen: True
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Sprite [13]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Sprite [15]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (29, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (31, 53),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (33, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (29, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (31, 54),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (33, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (28, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 55),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (34, 56),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (27, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 57),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (37, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [19]: Position: (26, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [20]: Position: (32, 58),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [21]: Position: (38, 60),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [13]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [14]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [15]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [15]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [16]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [17]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+Sprite [17]: Position: (26, 62),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [18]: Position: (32, 59),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+Sprite [19]: Position: (38, 61),Tiles: (Tile: Tile: 36, Tile: Tile: 37), On screen: True
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+记录结束: 2025-04-06 00:27:31
+总帧数: 1000
+运行时间: 16.68 秒
