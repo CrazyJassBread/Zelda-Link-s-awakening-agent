@@ -346,8 +346,8 @@ class ZeldaEnv(gym.Env):
                 enemy_reward = 500  # 杀死两个敌人
                 print("杀死了两个敌人!")
             
-            # 更新敌人阶段状态
-            if current_enemy_count == 0:
+        # 更新敌人阶段状态
+        if current_enemy_count == 0:
                 self.enemy_phase = False
                 print("所有敌人已清除，进入探索阶段")
         elif current_enemy_count > 1:
@@ -637,7 +637,7 @@ class ZeldaEnv(gym.Env):
                 if sprite.on_screen:
                     visible_sprites_count += 1
             
-            # 计算敌人数量: (可见精灵数-2)/2
+            # 计算敌人数量:
             enemy_count = max(0, (visible_sprites_count + 1) // 2)  # 1, 2 = 1, 3, 4 =2 
             return enemy_count
         except Exception as e:
