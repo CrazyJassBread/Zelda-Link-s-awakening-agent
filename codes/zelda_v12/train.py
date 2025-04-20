@@ -14,6 +14,7 @@ from stable_baselines3.common.callbacks import BaseCallback, CheckpointCallback,
 from stable_baselines3.common.evaluation import evaluate_policy
 from stable_baselines3.common.monitor import Monitor
 from stable_baselines3.common.vec_env import DummyVecEnv
+from datetime import datetime
 
 from zelda_env_v12 import ZeldaEnv
 
@@ -26,6 +27,8 @@ class RewardCallback(BaseCallback):
         self.current_episode_reward = 0
         self.current_episode_length = 0
 
+        self.model_save_dir = None  # 添加这行
+
     def _on_step(self) -> bool:
         self.current_episode_reward += self.locals['rewards'][0]
         self.current_episode_length += 1
@@ -35,8 +38,9 @@ class RewardCallback(BaseCallback):
             self.episode_lengths.append(self.current_episode_length)
             self.current_episode_reward = 0
             self.current_episode_length = 0
-
-            if len(self.episode_rewards) % 1000 == 0:
+            
+            if len(self.episode_rewards) % 1000 == 0 and self.model_save_dir is not None:
+                print(f"保存奖励曲线图到：{self.model_save_dir}/rewards_curve_{len(self.episode_rewards)}.png")
                 self.plot_rewards()
 
         return True
@@ -63,16 +67,21 @@ def main():
 
     env = ZeldaEnv(rom_path=r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb", config=config)
     # env = Monitor(env, config["session_path"])
-    # 设置模型保存路径
-    model_save_dir = Path(config["session_path"]) / "zelda_models"
-    model_save_dir.mkdir(exist_ok=True)
 
-    # 创建PPO模型，启用TensorBoard
+    current_time = datetime.now().strftime('%Y%m%d_%H%M%S')
+    model_save_dir = Path(config["session_path"]) / "zelda_models" / f"train_{current_time}"
+    model_save_dir.mkdir(parents=True, exist_ok=True)
+
     model = PPO(
         "MultiInputPolicy", 
         env, 
         verbose=1,
-        tensorboard_log=str(model_save_dir / "tensorboard_logs")
+        learning_rate=5e-5,        # 进一步降低学习率
+        n_steps=4096,              # 增加步数以获取更多经验
+        batch_size=256,            # 增加批量大小
+        gamma=0.99,                
+        ent_coef=0.005,           # 减小探索系数
+        clip_range=0.1,           # 减小裁剪范围提高稳定性
     )
     
     # 创建回调函数
@@ -123,8 +132,8 @@ def main():
         tb_log_name="PPO_zelda"
     )
 
-        # 训练完成后保存最终模型
-    final_model_path = model_save_dir / "zelda_final_model"
+     # 训练完成后保存最终模型
+    final_model_path = model_save_dir / "final_model.zip"
     model.save(final_model_path)
     print(f"最终模型已保存至: {final_model_path}")
     
@@ -134,7 +143,7 @@ def main():
     plt.xlabel('Episode')
     plt.ylabel('Reward')
     plt.title('Complete Training Reward Curve')
-    plt.savefig(f"{model_save_dir}/final_reward_curve.png")
+    plt.savefig(str(model_save_dir / "final_reward_curve.png"))
     plt.show()
 
     # 关闭环境
@@ -148,3 +157,28 @@ if __name__ == "__main__":
     
     
 
+"""
+def main():
+    # ... 现有代码 ...
+    
+    model = PPO(
+        "MultiInputPolicy", 
+        env, 
+        verbose=1,
+        learning_rate=1e-5,        # 进一步降低学习率
+        n_steps=8192,              # 增加步数以获取更多经验
+        batch_size=512,            # 增加批量大小
+        gamma=0.995,               # 增加折扣因子
+        ent_coef=0.001,           # 进一步减小探索
+        clip_range=0.1,           
+        n_epochs=20               # 增加每批数据的训练轮数
+    )
+
+    # ... 其他代码 ...
+
+    # 增加训练步数
+    model.learn(
+        total_timesteps=2000000,  # 增加到200万步
+        callback=callbacks
+    )
+"""

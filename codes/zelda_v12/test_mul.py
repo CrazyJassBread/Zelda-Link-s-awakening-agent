@@ -30,7 +30,6 @@ def main():
         "max_steps": 200000,  # 最大步骤数
         "init_state": r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb.state",  # 初始化状态文件路径
         "algorithm": "PPO",  # 可选: "PPO", "A2C", "SAC", "DQN", "QRDQN"
-
     }
 
     # 创建测试环境
@@ -38,25 +37,34 @@ def main():
     
     # 设置模型加载路径
     algorithm = config["algorithm"]
-    model_save_dir = Path(config["session_path"]) / f"zelda_models_{algorithm}"
+    model_save_dir = Path(config["session_path"]) / "zelda_models"
     
-    # 加载最佳模型（如果存在）
-    best_model_path = model_save_dir / "best_model" / "best_model.zip"
-    if best_model_path.exists():
-        model_path = best_model_path
-        print(f"加载最佳模型: {model_path}")
-    else:
-        # 否则加载最终模型
-        model_path = model_save_dir / f"zelda_final_model_{algorithm}.zip"
-        print(f"加载最终模型: {model_path}")
+    # 获取最新的训练文件夹
+    train_folders = sorted([d for d in model_save_dir.iterdir() if d.is_dir() and d.name.startswith(f"{algorithm}_")])
+    if not train_folders:
+        raise FileNotFoundError(f"未找到任何{algorithm}训练文件夹")
     
-        # 根据算法加载对应的模型
+    latest_train_folder = train_folders[-1]
+    print(f"使用最新的训练文件夹: {latest_train_folder}")
+
+    # 加载最终模型
+    model_path = latest_train_folder / "final_model.zip"
+    if not model_path.exists():
+        # 尝试加载最新的checkpoint
+        checkpoints = sorted(list((latest_train_folder / "checkpoints").glob(f"{algorithm}_model_*.zip")), 
+                           key=lambda x: int(x.stem.split('_')[-1]))
+        if checkpoints:
+            model_path = checkpoints[-1]
+        else:
+            raise FileNotFoundError("未找到任何可用的模型文件")
+    
+    print(f"加载模型: {model_path}")
+    
+    # 根据算法加载对应的模型
     if algorithm == "PPO":
         model = PPO.load(model_path, env=env)
     elif algorithm == "A2C":
         model = A2C.load(model_path, env=env)
-    elif algorithm == "SAC":
-        model = SAC.load(model_path, env=env)
     elif algorithm == "DQN":
         model = DQN.load(model_path, env=env)
     elif algorithm == "QRDQN" and 'QRDQN' in globals():
@@ -71,6 +79,9 @@ def main():
     success_count = 0
     total_episodes = 10  # 测试10个episode
     
+    # 添加动作统计
+    action_counts = {i: 0 for i in range(env.action_space.n)}
+    
     for episode in range(total_episodes):
         print(f"开始测试 Episode {episode+1}/{total_episodes}")
         obs, _ = env.reset()
@@ -80,7 +91,8 @@ def main():
         episode_length = 0
         
         while not (done or truncated):
-            action, _states = model.predict(obs, deterministic=True)
+            action, _states = model.predict(obs, deterministic=False)
+            action_counts[action] += 1  # 记录动作使用频率
             obs, reward, done, truncated, info = env.step(action)
             episode_reward += reward
             episode_length += 1
@@ -105,13 +117,23 @@ def main():
     print(f"平均奖励: {np.mean(episode_rewards):.2f}")
     print(f"平均步数: {np.mean(episode_lengths):.2f}")
     
+    # 打印动作使用统计
+    print("\n动作使用统计:")
+    for action, count in action_counts.items():
+        try:
+            action_name = env.valid_actions[action].__str__().split('.')[-1]  # 获取动作名称
+        except:
+            action_name = f"Action_{action}"
+        percentage = (count / sum(action_counts.values())) * 100
+        print(f"动作 {action} ({action_name}): {count}次 ({percentage:.1f}%)")
+    
     # 绘制测试奖励图表
     plt.figure(figsize=(12, 6))
     plt.bar(range(1, total_episodes+1), episode_rewards)
     plt.xlabel('Episode')
     plt.ylabel('Reward')
-    plt.title('Test Episodes Rewards')
-    plt.savefig(f"{model_save_dir}/test_rewards.png")
+    plt.title(f'{algorithm} Test Episodes Rewards')
+    plt.savefig(str(latest_train_folder / "test_rewards.png"))
     plt.show()
     
     # 关闭环境

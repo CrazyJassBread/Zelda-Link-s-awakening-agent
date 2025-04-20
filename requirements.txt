@@ -1,0 +1,14 @@
+# 基础依赖
+numpy>=1.21.0
+matplotlib>=3.4.0
+gym>=0.21.0
+
+# 强化学习框架
+stable-baselines3>=2.0.0
+sb3-contrib>=2.0.0  # 主要是这个
+
+# GameBoy 模拟器
+pyboy>=1.4.3
+
+# 可选：用于训练加速
+torch>=1.9.0

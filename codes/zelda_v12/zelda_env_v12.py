@@ -116,7 +116,7 @@ class ZeldaEnv(gym.Env):
             try:
                 with open(self.init_state, "rb") as f:
                     self.pyboy.load_state(f)
-                print("成功加载初始状态文件")
+                # print("成功加载初始状态文件")
             except Exception as e:
                 print(f"加载初始状态文件失败: {e}")
 
@@ -314,7 +314,7 @@ class ZeldaEnv(gym.Env):
 
         # 检查是否需要重置环境
         if current_pos_8 != 0x3a or current_health == 0:
-            print(f"角色离开房间或生命值为0，重置环境")
+            # print(f"角色离开房间或生命值为0，重置环境")
             # 使用STATE_LOAD两次确保状态正确加载
             self.pyboy.send_input(WindowEvent.STATE_LOAD)
             self.pyboy.tick()

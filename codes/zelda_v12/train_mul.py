@@ -8,6 +8,8 @@ from pyboy import PyBoy
 from pyboy.utils import WindowEvent
 from pathlib import Path
 import time
+from datetime import datetime
+import matplotlib.pyplot as plt
 # 导入多种算法
 from stable_baselines3 import PPO, A2C, SAC
 from stable_baselines3.common.callbacks import BaseCallback, CheckpointCallback, EvalCallback
@@ -32,6 +34,7 @@ class RewardCallback(BaseCallback):
         self.episode_lengths = []
         self.current_episode_reward = 0
         self.current_episode_length = 0
+        self.model_save_dir = None
 
     def _on_step(self) -> bool:
         self.current_episode_reward += self.locals['rewards'][0]
@@ -43,12 +46,17 @@ class RewardCallback(BaseCallback):
             self.current_episode_reward = 0
             self.current_episode_length = 0
 
-            if len(self.episode_rewards) % 1000 == 0:
+            if len(self.episode_rewards) % 1000 == 0 and self.model_save_dir is not None:
+                print(f"保存奖励曲线图到：{self.model_save_dir}/rewards_curve_{len(self.episode_rewards)}.png")
                 self.plot_rewards()
 
         return True
     
     def plot_rewards(self):
+        if self.model_save_dir is None:
+            print("警告：未设置保存路径，跳过图像保存")
+            return
+            
         plt.figure(figsize=(12, 6))
         plt.plot(self.episode_rewards, label='Episode Rewards')
         plt.xlabel('Episode')
@@ -66,52 +74,65 @@ def main():
         "max_steps": 200000,  # 最大步骤数
         "init_state": r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb.state",  # 初始化状态文件路径
         "use_eval" : False,
-        "algorithm": "PPO",
+        "algorithm": "PPO",  # 可选: "PPO", "A2C", "SAC", "DQN", "QRDQN"
     }
 
     env = ZeldaEnv(rom_path=r"D:\codes\codes_pycharm\da_chuang\Legend_of_Zelda\Legend_of_Zelda.gb", config=config)
-    # env = Monitor(env, config["session_path"])
-    # 设置模型保存路径
-    model_save_dir = Path(config["session_path"]) / "zelda_models"
-    model_save_dir.mkdir(exist_ok=True)
+    
+    # 创建带时间戳和算法名的保存目录
+    algorithm = config["algorithm"]
+    current_time = datetime.now().strftime('%Y%m%d_%H%M%S')
+    model_save_dir = Path(config["session_path"]) / "zelda_models" / f"{algorithm}_{current_time}"
+    model_save_dir.mkdir(parents=True, exist_ok=True)
+    
+    print(f"模型将保存在: {model_save_dir}")
 
     # 根据选择的算法创建模型
-    algorithm = config["algorithm"]
     if algorithm == "PPO":
         model = PPO(
             "MultiInputPolicy", 
             env, 
             verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
+            learning_rate=5e-5,
+            n_steps=4096,
+            batch_size=256,
+            gamma=0.99,
+            ent_coef=0.005,
+            clip_range=0.1
         )
     elif algorithm == "A2C":
         model = A2C(
             "MultiInputPolicy", 
             env, 
             verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
-        )
-    elif algorithm == "SAC":
-        # SAC需要连续动作空间，可能需要修改环境
-        model = SAC(
-            "MultiInputPolicy", 
-            env, 
-            verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
+            learning_rate=7e-4,
+            n_steps=5,
+            gamma=0.99,
+            ent_coef=0.01
         )
     elif algorithm == "DQN":
         model = DQN(
             "MultiInputPolicy", 
             env, 
             verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
+            learning_rate=1e-4,
+            buffer_size=100000,
+            learning_starts=1000,
+            batch_size=256,
+            gamma=0.99,
+            exploration_fraction=0.2,
+            exploration_final_eps=0.05
         )
     elif algorithm == "QRDQN" and 'QRDQN' in globals():
         model = QRDQN(
             "MultiInputPolicy", 
             env, 
             verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
+            learning_rate=1e-4,
+            buffer_size=100000,
+            learning_starts=1000,
+            batch_size=256,
+            gamma=0.99
         )
     else:
         print(f"不支持的算法: {algorithm}，使用默认的PPO")
@@ -119,7 +140,12 @@ def main():
             "MultiInputPolicy", 
             env, 
             verbose=1,
-            tensorboard_log=str(model_save_dir / "tensorboard_logs")
+            learning_rate=5e-5,
+            n_steps=4096,
+            batch_size=256,
+            gamma=0.99,
+            ent_coef=0.005,
+            clip_range=0.1
         )
     
     # 创建回调函数
@@ -128,14 +154,13 @@ def main():
     # 1. 定期保存模型
     checkpoint_callback = CheckpointCallback(
         save_freq=10000,
-        save_path=str(model_save_dir),
-        name_prefix="zelda_model",
+        save_path=str(model_save_dir / "checkpoints"),
+        name_prefix=f"{algorithm}_model",
         save_replay_buffer=True,
         save_vecnormalize=True,
     )
     callbacks.append(checkpoint_callback)
 
-        # 2. 定期评估模型性能
     # 2. 定期评估模型性能（仅在电脑性能好的情况下使用）
     if config["use_eval"]:
         print("启用评估环境进行定期评估...")
@@ -166,12 +191,11 @@ def main():
     # 训练模型，使用多个回调函数
     model.learn(
         total_timesteps=1000000, 
-        callback=callbacks,
-        tb_log_name=f"{algorithm}_zelda"
+        callback=callbacks
     )
 
     # 训练完成后保存最终模型
-    final_model_path = model_save_dir / f"zelda_final_model_{algorithm}"
+    final_model_path = model_save_dir / "final_model.zip"
     model.save(final_model_path)
     print(f"最终模型已保存至: {final_model_path}")
     
@@ -180,8 +204,8 @@ def main():
     plt.plot(reward_callback.episode_rewards)
     plt.xlabel('Episode')
     plt.ylabel('Reward')
-    plt.title('Complete Training Reward Curve')
-    plt.savefig(f"{model_save_dir}/final_reward_curve.png")
+    plt.title(f'{algorithm} Complete Training Reward Curve')
+    plt.savefig(str(model_save_dir / "final_reward_curve.png"))
     plt.show()
 
     # 关闭环境
@@ -190,7 +214,7 @@ def main():
     if eval_env is not None:
         eval_env.close()    
 if __name__ == "__main__":
-    main()  
+    main()
     
     
     
