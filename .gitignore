@@ -1,0 +1,12 @@
+# 忽略模型和游戏文件
+PokemonRedExperiments/
+record/
+
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+
+# 忽略IDE配置
+.idea/
+.vscode/
